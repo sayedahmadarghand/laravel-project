@@ -21,15 +21,7 @@
             </div>
 
             <nav class="nav">
-                <a href="index.html">کور</a>
-                <a href="products.html">محصولات</a>
-                <a href="cart.html">
-                    د پیرودلو ټوکرۍ
-                    <span id="cart-count">۰</span>
-                </a>
-                <a href="login.html">ننوتل</a>
-                <a href="register.html">ثبت‌نام</a>
-                <a href="contact.html">اړیکه</a>
+                <a href="product-details.php" class="details-btn">
             </nav>
 
         </div>
